@@ -5,7 +5,9 @@
 * Chicken is my student staple food 🐔
 * Spent too much time watching South Park 🌲
 
-## Music favs
+## [Homepage](https://yourhumblenarrator.github.io/)
+
+### Music favs
 
 |       505      | Heart of a Champion | Cut the Cord |       Blasphemy      | Kill the noise |  Tissues |
 |:--------------:|:-------------------:|:------------:|:--------------------:|:--------------:|:--------:|
