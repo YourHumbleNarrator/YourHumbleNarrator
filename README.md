@@ -13,4 +13,4 @@
 |:--------------:|:-------------------:|:------------:|:--------------------:|:--------------:|:--------:|
 | Arctic Monkeys |   Hollywood Undead  |   Shinedown  | Bring Me The Horizon |   Papa Roach   | YUNGBLUD |
 
-## [Chat GPT repository for Papers with Code](https://github.com/sajedjalil/ChatGPT-Software-Testing-Study)
+## [AI cars repository for Papers with Code](https://github.com/YourHumbleNarrator/bot_or_not)
