@@ -13,5 +13,5 @@
 |:--------------:|:-------------------:|:------------:|:--------------------:|:--------------:|:--------:|
 | Arctic Monkeys |   Hollywood Undead  |   Shinedown  | Bring Me The Horizon |   Papa Roach   | YUNGBLUD |
 
-## [AI cars repository for Papers with Code](https://github.com/YourHumbleNarrator/bot_or_not)
-## [AI cars article](https://link.springer.com/article/10.1007/s00146-022-01598-6)
+## [AI cars fork respository](https://github.com/YourHumbleNarrator/bot_or_not)
+## [AI cars article on Papers with Code](https://paperswithcode.com/paper/towards-human-compatible-autonomous-car-a)
