@@ -4,4 +4,4 @@
 * Familiar with PostgreSQL, HTML, CSS, JavaScript, React 💻
 * Currently coming back my roots and relearning C in Espressif ©️
 * Loves managing projects 🖋️
-* Looking for an internship 🙏
+* Euroclear intern 💰
